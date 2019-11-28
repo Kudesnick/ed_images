@@ -1,0 +1,1025 @@
+** Flashing Edison Board Mon 09/05/2016 19:42:27.95 ** 
+** Flashing Edison Board Mon 09/05/2016 19:42:55.86 ** 
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #0 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%      4194304 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #1 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%      4194304 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #2 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%       237568 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #3 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%        65536 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #5 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%        65536 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Resetting USB to switch back to runtime mode
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #6 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%     17678336 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #7 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%   1373149184 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Resetting USB to switch back to runtime mode
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+** Flashing Edison Board Mon 09/05/2016 21:16:42.64 ** 
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #0 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%      4194304 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #1 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%      4194304 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #2 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%       237568 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #3 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%        65536 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #5 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%        65536 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Resetting USB to switch back to runtime mode
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #6 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%     17678336 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #7 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%   1373149184 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Resetting USB to switch back to runtime mode
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+** Flashing Edison Board Mon 09/05/2016 22:29:54.39 ** 
+** Flashing Edison Board Mon 09/05/2016 22:30:21.89 ** 
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #0 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%      4194304 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #1 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%      4194304 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #2 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%       237568 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #3 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%        65536 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #5 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%        65536 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Resetting USB to switch back to runtime mode
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #6 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%     17678336 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
+dfu-util 0.8.4-msvc
+
+
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+
+Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
+
+
+
+Opening DFU capable USB device...
+
+ID 8087:0a99
+
+Run-time device DFU version 0110
+
+Claiming USB DFU Interface...
+
+Setting Alternate Setting #7 ...
+
+Determining device status: state = dfuIDLE, status = 0
+
+dfuIDLE, continuing
+
+DFU mode device DFU version 0110
+
+Device returned transfer size 4096
+
+Copying data from PC to DFU device
+
+Download	[=========================] 100%   1373149184 bytes
+
+Download done.
+
+state(7) = dfuMANIFEST, status(0) = No error condition is present
+
+state(2) = dfuIDLE, status(0) = No error condition is present
+
+Done!
+
+Resetting USB to switch back to runtime mode
+
+Invalid DFU suffix signature
+
+A valid DFU suffix will be required in a future dfu-util release!!!
+
